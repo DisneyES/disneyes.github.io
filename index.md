@@ -1,2 +1,1 @@
-<meta http-equiv=“refresh" content="2"; url=http://disney.github.io/" />
-Redireccionando...
+Redireccionando... <p><a href="http://disney.github.io/">Haz clic aquí</a></p>
